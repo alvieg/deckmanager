@@ -1,5 +1,5 @@
 {
-  "name": "deckmanager",
+  "name": "@hammerhead/deckmanager",
   "version": "1.0.0",
   "description": "A ready-to-use card deck manager with pile support using Deck of Cards API",
   "main": "index.js",
