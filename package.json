@@ -1,6 +1,6 @@
 {
   "name": "@hammerhead/deckmanager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A ready-to-use card deck manager with pile support using Deck of Cards API",
   "main": "index.js",
   "type": "module",
